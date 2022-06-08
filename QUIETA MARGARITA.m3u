@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,tv logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Bandicam_2020-01-29_15-21-42-721.jpg/revision/latest?cb=20200129195156",group-title="series",QUIETA MARGARITA CAPITULO 1
+#EXTINF:-1,tvg-id="https://static.wikia.nocookie.net/logopedia/images/1/19/Bandicam_2020-01-29_15-21-42-721.jpg/revision/latest?cb=20200129195156",group-title="series",QUIETA MARGARITA CAPITULO 1
 https://dl.dropboxusercontent.com/s/d71i6kv4d6gwmvr/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2001.mp4?dl=0
 
 #EXTINF:-1,group-title="series",QUIETA MARGARITA CAPITULO 2
@@ -20,11 +20,6 @@ https://dl.dropboxusercontent.com/s/omrhu9j2g31juor/Quieta%20Margarita%20-%20Cap
 
 #EXTINF:-1,group-title="series",QUIETA MARGARITA CAPITULO 7
 https://dl.dropboxusercontent.com/s/hyuesafc4ljnymx/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2007.mp4?dl=0
-
-#EXTINF:-1,group-title="series",QUIETA MARGARITA CAPITULO 8
-https://dl.dropboxusercontent.com/s/dyjrfmxbaqm8f6j/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2008.mp4?dl=0
-#EXTINF:-1,group-title="series",QUIETA MARGARITA CAPITULO 9
-https://dl.dropboxusercontent.com/s/8n8rjpmklgsia07/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2009.mp4?dl=0
 
 
 
