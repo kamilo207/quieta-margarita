@@ -1,55 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 CAPITULO 1  , CAPITULO 1
+#EXTINF:-1 ,group-title="series",QUIETA MARGARITA , CAPITULO 1
 https://dl.dropboxusercontent.com/s/d71i6kv4d6gwmvr/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2001.mp4?dl=0
-#EXTINF:-1 CAPITULO 2 , CAPIT 2
+#EXTINF:-1 ,group-title="series",QUIETA MARGARITA , CAPITULO 2
 https://dl.dropboxusercontent.com/s/bbdec49zzocu93g/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2002.mp4?dl=0
-#EXTINF:-1  CAPITULO 3 , CAPIT 3 
+#EXTINF:-1 ,group-title="series",QUIETA MARGARITA , CAPITULO 3 
 https://dl.dropboxusercontent.com/s/98p2k86dxxfbz75/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2003.mp4?dl=0
-#EXTINF:-1 CAPITULO 4 , CAPITULO 4
+#EXTINF:-1 ,group-title="series",QUIETA MARGARITA , CAPITULO 4
 https://dl.dropboxusercontent.com/s/ksfxzxtdqynozqz/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2004.mp4?dl=0
-#EXTINF:-1  CAPITUI 5 , CAPITULO 5 
+#EXTINF:-1 ,group-title="series",QUIETA MARGARITA , CAPITULO 5 
 https://dl.dropboxusercontent.com/s/5ths2eig1zt0385/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2005.mp4?dl=0
-#EXTINF:-1 CAPITULO 6 , CAPIT 6 
-https://dl.dropboxusercontent.com/s/omrhu9j2g31juor/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2006.mp4?dl=0
-#EXTINF:-1 CAPITULO 6 , CAPITULO 7
-https://dl.dropboxusercontent.com/s/hyuesafc4ljnymx/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2007.mp4?dl=0
-#EXTINF:-1 CAPITU 8 , CAPITULO 8
-https://dl.dropboxusercontent.com/s/dyjrfmxbaqm8f6j/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2008.mp4?dl=0
-#EXTINF:-1 CAPITU 9 , CAPITULO 9
-https://dl.dropboxusercontent.com/s/8n8rjpmklgsia07/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2009.mp4?dl=0
-#EXTINF:-1 CAPITULO 10 , CAPITULO 10
-https://dl.dropboxusercontent.com/s/24jcnc6m3e4enoe/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2010.mp4?dl=0
-#EXTINF:-1  CAPITULO 11 , CAPITULO 11
-https://dl.dropboxusercontent.com/s/szrokmsxje3h8rv/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2011.mp4?dl=0
-#EXTINF:-1 CAPITULO 12 , CAPITULO 12
-https://dl.dropboxusercontent.com/s/6gaxzyqj2l1c9kz/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2012.mp4?dl=0
-#EXTINF:-1 CAPITULO 13 , CAPITULO 13
-https://dl.dropboxusercontent.com/s/32wtd7nivpgv5ff/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2013.mp4?dl=0
-#EXTINF:-1 CAPITULO 14 , CAPITULO 14
-https://dl.dropboxusercontent.com/s/y81s0e42m05abzy/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2014.mp4?dl=0
-#EXTINF:-1 CAPITULO 15 , CAPITULO 15 
-https://dl.dropboxusercontent.com/s/5drb8ajop6qu019/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2015.mp4?dl=0
-#EXTINF:-1 CAPITULO 16 , CAPITULO 16
-https://dl.dropboxusercontent.com/s/wlv4k5jg1mxoze9/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2016.mp4?dl=0
-#EXTINF:-1 CAPITULO 17 , CAPITULO 17
-https://dl.dropboxusercontent.com/s/7irovn12ieadoxk/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2017.mp4?dl=0
-#EXTINF:-1 CAPITULO 18 , CAPITULO 18
-https://dl.dropboxusercontent.com/s/07ta9i7r6cebhf7/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2018.mp4?dl=0
-#EXTINF:-1 CAPITULO 19 , CAPITULO 19
-https://dl.dropboxusercontent.com/s/42911255130x36o/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2019.mp4?dl=0
-#EXTINF:-1 CAPITULO 20 , CAPITULO 20
-https://dl.dropboxusercontent.com/s/7mxh1hr946vaql8/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2020.mp4?dl=0
-#EXTINF:-1 CAPITULO 21 , CAPITULO 21
-https://dl.dropboxusercontent.com/s/iszh0xvwzblaw1k/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2021.mp4?dl=0
-#EXTINF:-1 CAPITULO 22 , CAPITULO 22
-https://dl.dropboxusercontent.com/s/lysd950t3i0c02f/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2022.mp4?dl=0
-#EXTINF:-1 CAPITULO 23 , CAPITULO 23
-https://dl.dropboxusercontent.com/s/n37282t8rhgk8pu/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2023.mp4?dl=0
-#EXTINF:-1 CAPITOLO 24 , CAPITULO 24
-https://dl.dropboxusercontent.com/s/qqtlpc0r6lbf8dq/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2024.mp4?dl=0
-#EXTINF:-1 CAPITULO 25 , CAPITULO 25
-https://dl.dropboxusercontent.com/s/ujdg5k0827yj24j/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2025.mp4?dl=0
 
 
 
