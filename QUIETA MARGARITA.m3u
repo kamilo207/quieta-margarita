@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Bandicam_2020-01-29_15-21-42-721.jpg/revision/latest?cb=20200129195156" group-title="series",QUIETA MARGARITA CAPITULO 1
 https://dl.dropboxusercontent.com/s/d71i6kv4d6gwmvr/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2001.mp4?dl=0
@@ -258,7 +258,7 @@ https://dl.dropboxusercontent.com/s/au2k3h5kjec8yio/Quieta%20Margarita%20-%20Cap
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Bandicam_2020-01-29_15-21-42-721.jpg/revision/latest?cb=20200129195156" group-title="series",QUIETA MARGARITA CAPITULO 86
 https://dl.dropboxusercontent.com/s/gitiuweugcufmxw/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2086.mp4?dl=0
 
-#EXTINF:-1 CAPITULO 87 , CAPITULO 87
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Bandicam_2020-01-29_15-21-42-721.jpg/revision/latest?cb=20200129195156" group-title="series",QUIETA MARGARITA CAPITULO 87
 https://dl.dropboxusercontent.com/s/rj1f0ukqkqnu2s8/Quieta%20Margarita%20-%20Cap%C3%ADtulo%2087.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Bandicam_2020-01-29_15-21-42-721.jpg/revision/latest?cb=20200129195156" group-title="series",QUIETA MARGARITA CAPITULO 88
@@ -542,7 +542,6 @@ https://dl.dropboxusercontent.com/s/2qzyqu3izmhti48/Quieta%20Margarita%20-%20Cap
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Fugitivos_p%C3%B3ster.jpg" group-title="series",FUGITIVOS CAPITULO 1
 https://dl.dropboxusercontent.com/s/bmreszsyuo1nzgt/capitulo%201%20.mp4?dl=0 
-
 
 
 
